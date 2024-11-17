@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=flat" alt="quotentiroler" /> </p>
 
-- 🔭 I’m currently working on [ReVamp App](https://www.rvmp.xyz/)
-
 - 🤝 I’m looking for help with [MyTeacher App](https://myteacher.at)
 
-- 📫 How to reach me **max.nussbaumer@tum.de**
+- 📫 How to reach me **max@myteacher.at**
 
 
 <h3 align="left">Languages and Tools:</h3>
