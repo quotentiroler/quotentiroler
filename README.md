@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=flat" alt="quotentiroler" /> </p>
 
-- 🤝 I’m looking for help with [MyTeacher App](https://myteacher.at)
+- 🤝 I’m looking for help with [Proxy Smart](https://github.com/quotentiroler/proxy-smart)
 
-- 📫 How to reach me **max@myteacher.at**
+- 📫 How to reach me: Discord @quotentiroler
 
 
 <h3 align="left">Languages and Tools:</h3>
