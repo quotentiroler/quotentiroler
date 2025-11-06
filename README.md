@@ -1,12 +1,349 @@
-<h1 align="center">Hi 👋, I'm Max</h1>
-<h3 align="center">A passionate full stack developer from Austria</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=flat" alt="quotentiroler" /> </p>
+# 👋 Hi, I'm Max
 
-- 🤝 I’m looking for help with [Proxy Smart](https://github.com/quotentiroler/proxy-smart)
+### Full Stack Developer interested in HealtTech | EdTech | AI
 
-- 📫 How to reach me: Discord @quotentiroler
+[![Profile Views](https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/quotentiroler)
+[![GitHub Followers](https://img.shields.io/github/followers/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=followers)
+[![GitHub Stars](https://img.shields.io/github/stars/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=repositories)
 
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
+
+## 🚀 Featured Projects
+
+### 🏥 Healthcare & FHIR
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BabelFHIR-TS</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/BabelFHIR-TS">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+        <a href="https://github.com/quotentiroler/BabelFHIR-TS">
+          <img src="https://img.shields.io/github/stars/quotentiroler/BabelFHIR-TS?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Convert FHIR StructureDefinitions to TypeScript Interfaces. Simplifying healthcare data integration with strongly-typed interfaces.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/BabelFHIR-TS">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Proxy Smart</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/proxy-smart">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/proxy-smart">
+          <img src="https://img.shields.io/github/stars/quotentiroler/proxy-smart?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Healthcare Identity Management and Access Administration on Keycloak. Streamlining authentication for SMART on FHIR applications.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/proxy-smart">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Blood Count to FHIR</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/blood-count-to-fhir">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        </a>
+      </p>
+      <p align="center">
+        Map unstructured blood count data to German FHIR Profiles. Transforming legacy healthcare data into modern standards.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/blood-count-to-fhir">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+### 📚 Education & EdTech
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MyTeacher</h3>
+      <p align="center">
+        <a href="https://myteacher.at">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+        <a href="https://myteacher.at">
+          <img src="https://img.shields.io/badge/Platform-Live-success?style=for-the-badge" alt="Live"/>
+        </a>
+      </p>
+      <p align="center">
+        Complete education platform connecting students with teachers. Features real-time messaging, scheduling, and course management.
+      </p>
+      <p align="center">
+        <a href="https://myteacher.at">🌐 Platform</a> | 
+        <a href="https://myteacher.at/webapp">💻 Web App</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">MyCardForger</h3>
+      <p align="center">
+        <a href="https://myteacher.at/cardforger">
+          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+        </a>
+        <a href="https://apps.apple.com/app/id6736616168">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
+        </a>
+      </p>
+      <p align="center">
+        AI-driven flashcard and quiz creator. Import or create flashcards and automatically generate engaging quizzes with AI-generated answers.
+      </p>
+      <p align="center">
+        <a href="https://myteacher.at/cardforger">🌐 Website</a> | 
+        <a href="https://apps.apple.com/app/id6736616168">📱 iOS</a> | 
+        <a href="https://play.google.com/store/apps/details?id=com.myteacher.mycardforger">🤖 Android</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🤖 AI & Automation
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">MCP Generator 2.0</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
+          <img src="https://img.shields.io/github/stars/quotentiroler/mcp-generator-2.0?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Generate FastMCP 2.0 Servers from OpenAPI Specs. Automate MCP server creation with ease.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/mcp-generator-2.0">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Email Collector</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/email-collector">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/email-collector">
+          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Collect your emails with the help of AI agents! Intelligent email management system.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 📊 Analytics & Visualization
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">HypePlot</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/HypePlot">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+      </p>
+      <p align="center">
+        Track topic hype cycles by analyzing various sources and plot the results. Visualize trending topics over time.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/HypePlot">📂 Repository</a> |
+        <a href="https://quotentiroler.github.io/HypePlot">🌐 Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Skillset Octagon</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/skillset-octagon">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+      </p>
+      <p align="center">
+        Visualize your skills in an octagon radar chart. Beautiful skill visualization tool.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/skillset-octagon">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🏆 Hackathons
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">F1-AIC</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/F1-AIC">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+      </p>
+      <p align="center">
+        F1 Hackathon AI Collective project. Gamified growth platform.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/F1-AIC">📂 Repository</a> | 
+        <a href="https://f1-aic.vercel.app">🌐 Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+### 🛠️ Utilities
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Plagiarism Checker</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/plagiarismchecker">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        </a>
+        <a href="https://github.com/quotentiroler/plagiarismchecker">
+          <img src="https://img.shields.io/github/stars/quotentiroler/plagiarismchecker?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Detect similarities in code and documents. Academic integrity tool.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/plagiarismchecker">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Profile README</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/quotentiroler">
+          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+        </a>
+      </p>
+      <p align="center">
+        This profile! Check out the source code for styling ideas.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/quotentiroler">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### Database & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### Design
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</div>
+
+---
+
+## 📫 Get in Touch
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-@quotentiroler-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![GitHub](https://img.shields.io/badge/GitHub-quotentiroler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quotentiroler)
+
+**Looking for collaboration on:**
+
+- 🏥 Healthcare technology and FHIR integrations
+- 🤖 AI/ML projects and automation
+- 🌐 Full-stack web applications
+- 📊 Data visualization tools
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quotentiroler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quotentiroler&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+  <i>With ❤️ from Austria</i>
+</div>
