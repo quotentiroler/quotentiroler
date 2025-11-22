@@ -306,13 +306,6 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-quotentiroler-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/quotentiroler)
 [![FHIRSpace Discord](https://img.shields.io/badge/FHIRSpace_Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Tsn8SScpy)
 
-**Looking for collaboration on:**
-
-- 🏥 Healthcare technology and FHIR integrations
-- 🤖 AI/ML projects and automation
-- 🌐 Full-stack web applications
-- 📊 Data visualization tools
-
 </div>
 
 ---
