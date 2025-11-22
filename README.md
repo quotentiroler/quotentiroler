@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Max
 
-### Full Stack Developer interested in HealtTech | EdTech | AI
+### A passionate Full Stack Developer interested in HealtTech | EdTech | AI & ML
 
 [![Profile Views](https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/quotentiroler)
 [![GitHub Followers](https://img.shields.io/github/followers/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=followers)
@@ -73,8 +73,9 @@
         Complete education platform connecting students with teachers. Features real-time messaging, scheduling, and course management.
       </p>
       <p align="center">
-        <a href="https://myteacher.at">🌐 Platform</a> | 
-        <a href="https://myteacher.at/webapp">💻 Web App</a>
+        <a href="https://myteacher.at/webapp">💻 Web App</a> | 
+        <a href="https://myteacher.at/appstore">📱 iOS</a> | 
+        <a href="https://myteacher.at/playstore">🤖 Android</a>
       </p>
     </td>
     <td width="50%">
@@ -302,6 +303,8 @@
 
 [![Discord](https://img.shields.io/badge/Discord-@quotentiroler-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 [![GitHub](https://img.shields.io/badge/GitHub-quotentiroler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quotentiroler)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-quotentiroler-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/quotentiroler)
+[![FHIRSpace Discord](https://img.shields.io/badge/FHIRSpace_Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/3Tsn8SScpy)
 
 **Looking for collaboration on:**
 
