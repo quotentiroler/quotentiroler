@@ -39,7 +39,7 @@
       <h3 align="center">Proxy Smart</h3>
       <p align="center">
         <a href="https://github.com/quotentiroler/proxy-smart">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
         </a>
         <a href="https://github.com/quotentiroler/proxy-smart">
           <img src="https://img.shields.io/github/stars/quotentiroler/proxy-smart?style=for-the-badge" alt="Stars"/>
@@ -51,24 +51,6 @@
       <p align="center">
         <a href="https://github.com/quotentiroler/proxy-smart">📂 Repository</a>
       </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Blood Count to FHIR</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/blood-count-to-fhir">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        </a>
-      </p>
-      <p align="center">
-        Map unstructured blood count data to German FHIR Profiles. Transforming legacy healthcare data into modern standards.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/blood-count-to-fhir">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
