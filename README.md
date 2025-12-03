@@ -236,8 +236,9 @@
         Complete education platform connecting students with teachers. Features real-time messaging, scheduling, and course management.
       </p>
       <p align="center">
-        <a href="https://myteacher.at">🌐 Platform</a> | 
-        <a href="https://myteacher.at/webapp">💻 Web App</a>
+        <a href="https://myteacher.at/webapp">💻 Web App</a> | 
+        <a href="https://myteacher.at/appstore">📱 iOS</a> | 
+        <a href="https://myteacher.at/playstore">🤖 Android</a>
       </p>
     </td>
     <td width="50%">
