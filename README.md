@@ -2,11 +2,34 @@
 
 # 👋 Hi, I'm Max
 
-### Full Stack Developer interested in HealtTech | EdTech | AI
-
 [![Profile Views](https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/quotentiroler)
 [![GitHub Followers](https://img.shields.io/github/followers/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=repositories)
+
+</div>
+
+---
+
+<div align="center">
+
+### 📊 GitHub Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=quotentiroler&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=quotentiroler&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=quotentiroler&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quotentiroler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quotentiroler&layout=compact&theme=default&hide_border=true&langs_count=8" />
+  <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=quotentiroler&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=quotentiroler&theme=tokyonight&hide_border=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=quotentiroler&theme=default&hide_border=true" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=quotentiroler&theme=tokyonight&hide_border=true" />
+</picture>
 
 </div>
 
@@ -14,10 +37,29 @@
 
 ## 🚀 Featured Projects
 
+<!-- FEATURED-PROJECTS:START -->
+
 ### 🏥 Healthcare & FHIR
 
 <table>
   <tr>
+    <td width="50%">
+      <h3 align="center">proxy-smart</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/proxy-smart">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/proxy-smart">
+          <img src="https://img.shields.io/github/stars/quotentiroler/proxy-smart?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Healthcare Identity Management and Access Administration on Keycloak
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/proxy-smart">📂 Repository</a>
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center">BabelFHIR-TS</h3>
       <p align="center">
@@ -29,49 +71,152 @@
         </a>
       </p>
       <p align="center">
-        Convert FHIR StructureDefinitions to TypeScript Interfaces. Simplifying healthcare data integration with strongly-typed interfaces.
+        FHIR StructureDefinitions to TypeScript Interfaces
       </p>
       <p align="center">
         <a href="https://github.com/quotentiroler/BabelFHIR-TS">📂 Repository</a>
       </p>
     </td>
+  </tr>
+</table>
+
+### 🤖 AI & Automation
+
+<table>
+  <tr>
     <td width="50%">
-      <h3 align="center">Proxy Smart</h3>
+      <h3 align="center">mcp-generator-2.0</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/proxy-smart">
+        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         </a>
-        <a href="https://github.com/quotentiroler/proxy-smart">
-          <img src="https://img.shields.io/github/stars/quotentiroler/proxy-smart?style=for-the-badge" alt="Stars"/>
+        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
+          <img src="https://img.shields.io/github/stars/quotentiroler/mcp-generator-2.0?style=for-the-badge" alt="Stars"/>
         </a>
       </p>
       <p align="center">
-        Healthcare Identity Management and Access Administration on Keycloak. Streamlining authentication for SMART on FHIR applications.
+        Generate FastMCP 2.0 Servers from OpenAPI Specs
       </p>
       <p align="center">
-        <a href="https://github.com/quotentiroler/proxy-smart">📂 Repository</a>
+        <a href="https://github.com/quotentiroler/mcp-generator-2.0">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">email-collector</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/email-collector">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/email-collector">
+          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Collect your e-mails with the help of AI agents!
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
       </p>
     </td>
   </tr>
+</table>
+
+### 📊 Analytics & Visualization
+
+<table>
   <tr>
     <td width="50%">
-      <h3 align="center">Blood Count to FHIR</h3>
+      <h3 align="center">HypePlot</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/blood-count-to-fhir">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        <a href="https://github.com/quotentiroler/HypePlot">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/HypePlot">
+          <img src="https://img.shields.io/github/stars/quotentiroler/HypePlot?style=for-the-badge" alt="Stars"/>
         </a>
       </p>
       <p align="center">
-        Map unstructured blood count data to German FHIR Profiles. Transforming legacy healthcare data into modern standards.
+        Track topic hype cycles by analyzing various sources and plot the results
       </p>
       <p align="center">
-        <a href="https://github.com/quotentiroler/blood-count-to-fhir">📂 Repository</a>
+        <a href="https://github.com/quotentiroler/HypePlot">📂 Repository</a> | <a href="https://quotentiroler.github.io/HypePlot">🌐 Demo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">skillset-octagon</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/skillset-octagon">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+        <a href="https://github.com/quotentiroler/skillset-octagon">
+          <img src="https://img.shields.io/github/stars/quotentiroler/skillset-octagon?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Visualize your skills in an octagon!
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/skillset-octagon">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+### 🏆 Hackathons
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">F1-AIC</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/F1-AIC">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+        <a href="https://github.com/quotentiroler/F1-AIC">
+          <img src="https://img.shields.io/github/stars/quotentiroler/F1-AIC?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        F1 Hackathon AI Collective
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/F1-AIC">📂 Repository</a> | <a href="https://f1-aic.vercel.app">🌐 Demo</a>
       </p>
     </td>
     <td width="50%">
     </td>
   </tr>
 </table>
+
+### 🛠️ Utilities
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">plagiarismchecker</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/plagiarismchecker">
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+        </a>
+        <a href="https://github.com/quotentiroler/plagiarismchecker">
+          <img src="https://img.shields.io/github/stars/quotentiroler/plagiarismchecker?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        No description available.
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/plagiarismchecker">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
+</table>
+
+*Last updated: December 3, 2025 at 05:03 PM GMT+1*
+
+<!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
 
@@ -112,145 +257,6 @@
         <a href="https://myteacher.at/cardforger">🌐 Website</a> | 
         <a href="https://apps.apple.com/app/id6736616168">📱 iOS</a> | 
         <a href="https://play.google.com/store/apps/details?id=com.myteacher.mycardforger">🤖 Android</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🤖 AI & Automation
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MCP Generator 2.0</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
-        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
-          <img src="https://img.shields.io/github/stars/quotentiroler/mcp-generator-2.0?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Generate FastMCP 2.0 Servers from OpenAPI Specs. Automate MCP server creation with ease.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/mcp-generator-2.0">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Email Collector</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Collect your emails with the help of AI agents! Intelligent email management system.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 📊 Analytics & Visualization
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">HypePlot</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
-      </p>
-      <p align="center">
-        Track topic hype cycles by analyzing various sources and plot the results. Visualize trending topics over time.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot">📂 Repository</a> |
-        <a href="https://quotentiroler.github.io/HypePlot">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Skillset Octagon</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/skillset-octagon">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
-      </p>
-      <p align="center">
-        Visualize your skills in an octagon radar chart. Beautiful skill visualization tool.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/skillset-octagon">📂 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-### 🏆 Hackathons
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">F1-AIC</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/F1-AIC">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
-      </p>
-      <p align="center">
-        F1 Hackathon AI Collective project. Gamified growth platform.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/F1-AIC">📂 Repository</a> | 
-        <a href="https://f1-aic.vercel.app">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
-
-### 🛠️ Utilities
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Plagiarism Checker</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/plagiarismchecker">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        </a>
-        <a href="https://github.com/quotentiroler/plagiarismchecker">
-          <img src="https://img.shields.io/github/stars/quotentiroler/plagiarismchecker?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Detect similarities in code and documents. Academic integrity tool.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/plagiarismchecker">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Profile README</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/quotentiroler">
-          <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
-        </a>
-      </p>
-      <p align="center">
-        This profile! Check out the source code for styling ideas.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/quotentiroler">📂 Repository</a>
       </p>
     </td>
   </tr>
@@ -319,31 +325,14 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-@quotentiroler-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-quotentiroler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quotentiroler)
+[![GitHub](https://img.shields.io/badge/GitHub-quotentiroler-181717?style=for-the-badge&logo=github&logoColor=white)
+](https://github.com/quotentiroler)
 
-**Looking for collaboration on:**
-
-- 🏥 Healthcare technology and FHIR integrations
-- 🤖 AI/ML projects and automation
-- 🌐 Full-stack web applications
-- 📊 Data visualization tools
-
-</div>
+[
+](https://github.com/quotentiroler)
 
 ---
 
 <div align="center">
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=quotentiroler&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=quotentiroler&layout=compact&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
----
-
-<div align="center">
-  <i>With ❤️ from Austria</i>
+  <i>With ❤️ from Tyrol</i>
 </div>
