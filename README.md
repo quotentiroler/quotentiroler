@@ -84,23 +84,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Guido</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/Guido">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
-        <a href="https://github.com/quotentiroler/Guido">
-          <img src="https://img.shields.io/github/stars/quotentiroler/Guido?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Visual configuration management with intelligent rule-based automation and MCP server for AI integration
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/Guido">📂 Repository</a> | <a href="https://quotentiroler.github.io/Guido/">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">mcp-generator-2.0</h3>
       <p align="center">
         <a href="https://github.com/quotentiroler/mcp-generator-2.0">
@@ -117,8 +100,6 @@
         <a href="https://github.com/quotentiroler/mcp-generator-2.0">📂 Repository</a>
       </p>
     </td>
-  </tr>
-  <tr>
     <td width="50%">
       <h3 align="center">email-collector</h3>
       <p align="center">
@@ -135,8 +116,6 @@
       <p align="center">
         <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
       </p>
-    </td>
-    <td width="50%">
     </td>
   </tr>
 </table>
@@ -234,7 +213,7 @@
   </tr>
 </table>
 
-*Last updated: December 10, 2025 at 12:24 AM UTC*
+*Last updated: December 10, 2025 at 08:16 PM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
