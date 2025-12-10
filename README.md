@@ -84,6 +84,23 @@
 <table>
   <tr>
     <td width="50%">
+      <h3 align="center">Guido</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/Guido">
+          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </a>
+        <a href="https://github.com/quotentiroler/Guido">
+          <img src="https://img.shields.io/github/stars/quotentiroler/Guido?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Visual configuration management with intelligent rule-based automation and MCP server for AI integration
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/Guido">📂 Repository</a> | <a href="https://quotentiroler.github.io/Guido/">🌐 Demo</a>
+      </p>
+    </td>
+    <td width="50%">
       <h3 align="center">mcp-generator-2.0</h3>
       <p align="center">
         <a href="https://github.com/quotentiroler/mcp-generator-2.0">
@@ -100,6 +117,8 @@
         <a href="https://github.com/quotentiroler/mcp-generator-2.0">📂 Repository</a>
       </p>
     </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">email-collector</h3>
       <p align="center">
@@ -116,6 +135,8 @@
       <p align="center">
         <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
@@ -318,14 +339,10 @@
 <div align="center">
 
 [![Discord](https://img.shields.io/badge/Discord-@quotentiroler-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-[![GitHub](https://img.shields.io/badge/GitHub-quotentiroler-181717?style=for-the-badge&logo=github&logoColor=white)
-](https://github.com/quotentiroler)
-
-[
-](https://github.com/quotentiroler)
+[![GitHub](https://img.shields.io/badge/GitHub-quotentiroler-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/quotentiroler)
 
 ---
 
-<div align="center">
-  <i>With ❤️ from Tyrol</i>
+<i>With ❤️ from Tyrol</i>
+
 </div>
