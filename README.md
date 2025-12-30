@@ -38,47 +38,6 @@
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-### 🏥 Healthcare & FHIR
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">proxy-smart</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/proxy-smart">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
-        <a href="https://github.com/quotentiroler/proxy-smart">
-          <img src="https://img.shields.io/github/stars/quotentiroler/proxy-smart?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Healthcare Identity Management and Access Administration on Keycloak
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/proxy-smart">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">BabelFHIR-TS</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/BabelFHIR-TS">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
-        <a href="https://github.com/quotentiroler/BabelFHIR-TS">
-          <img src="https://img.shields.io/github/stars/quotentiroler/BabelFHIR-TS?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        FHIR StructureDefinitions to TypeScript Interfaces
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/BabelFHIR-TS">📂 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ### 🤖 AI & Automation
 
 <table>
@@ -228,7 +187,7 @@
   </tr>
 </table>
 
-*Last updated: December 29, 2025 at 12:26 AM UTC*
+*Last updated: December 30, 2025 at 12:24 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
