@@ -151,23 +151,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">plagiarismchecker</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/plagiarismchecker">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-        </a>
-        <a href="https://github.com/quotentiroler/plagiarismchecker">
-          <img src="https://img.shields.io/github/stars/quotentiroler/plagiarismchecker?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        No description available.
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/plagiarismchecker">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">Guido</h3>
       <p align="center">
         <a href="https://github.com/quotentiroler/Guido">
@@ -184,10 +167,12 @@
         <a href="https://github.com/quotentiroler/Guido">📂 Repository</a>
       </p>
     </td>
+    <td width="50%">
+    </td>
   </tr>
 </table>
 
-*Last updated: February 10, 2026 at 12:36 AM UTC*
+*Last updated: February 11, 2026 at 12:35 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
