@@ -77,6 +77,27 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">CactusRoute</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/CactusRoute">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/CactusRoute">
+          <img src="https://img.shields.io/github/stars/quotentiroler/CactusRoute?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        7-Layer Adaptive Edge/Cloud Hybrid Router
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/CactusRoute">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+    </td>
+  </tr>
 </table>
 
 ### 📊 Analytics & Visualization
@@ -172,7 +193,7 @@
   </tr>
 </table>
 
-*Last updated: February 25, 2026 at 12:32 AM UTC*
+*Last updated: February 26, 2026 at 12:28 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
