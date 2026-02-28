@@ -60,25 +60,6 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">email-collector</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Collect your e-mails with the help of AI agents!
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
       <h3 align="center">CactusRoute</h3>
       <p align="center">
         <a href="https://github.com/quotentiroler/CactusRoute">
@@ -93,6 +74,25 @@
       </p>
       <p align="center">
         <a href="https://github.com/quotentiroler/CactusRoute">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">email-collector</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/email-collector">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/email-collector">
+          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Collect your e-mails with the help of AI agents!
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
       </p>
     </td>
     <td width="50%">
@@ -193,7 +193,7 @@
   </tr>
 </table>
 
-*Last updated: February 27, 2026 at 12:31 AM UTC*
+*Last updated: February 28, 2026 at 12:26 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
