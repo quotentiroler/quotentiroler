@@ -43,20 +43,20 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">mcp-generator-2.0</h3>
+      <h3 align="center">mcp-generator-3.x</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
+        <a href="https://github.com/quotentiroler/mcp-generator-3.x">
           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
         </a>
-        <a href="https://github.com/quotentiroler/mcp-generator-2.0">
-          <img src="https://img.shields.io/github/stars/quotentiroler/mcp-generator-2.0?style=for-the-badge" alt="Stars"/>
+        <a href="https://github.com/quotentiroler/mcp-generator-3.x">
+          <img src="https://img.shields.io/github/stars/quotentiroler/mcp-generator-3.x?style=for-the-badge" alt="Stars"/>
         </a>
       </p>
       <p align="center">
-        Generate FastMCP 2.0 Servers from OpenAPI Specs
+        Generate FastMCP 3.x Servers from OpenAPI Specs
       </p>
       <p align="center">
-        <a href="https://github.com/quotentiroler/mcp-generator-2.0">📂 Repository</a>
+        <a href="https://github.com/quotentiroler/mcp-generator-3.x">📂 Repository</a>
       </p>
     </td>
     <td width="50%">
@@ -193,7 +193,7 @@
   </tr>
 </table>
 
-*Last updated: March 5, 2026 at 12:30 AM UTC*
+*Last updated: March 6, 2026 at 12:34 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ### 📚 Education & EdTech
