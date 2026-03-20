@@ -196,51 +196,6 @@
 *Last updated: March 20, 2026 at 12:30 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
-### 📚 Education & EdTech
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">MyTeacher</h3>
-      <p align="center">
-        <a href="https://myteacher.at">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
-        <a href="https://myteacher.at">
-          <img src="https://img.shields.io/badge/Platform-Live-success?style=for-the-badge" alt="Live"/>
-        </a>
-      </p>
-      <p align="center">
-        Complete education platform connecting students with teachers. Features real-time messaging, scheduling, and course management.
-      </p>
-      <p align="center">
-        <a href="https://myteacher.at/webapp">💻 Web App</a> | 
-        <a href="https://myteacher.at/appstore">📱 iOS</a> | 
-        <a href="https://myteacher.at/playstore">🤖 Android</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">MyCardForger</h3>
-      <p align="center">
-        <a href="https://myteacher.at/cardforger">
-          <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-        </a>
-        <a href="https://apps.apple.com/app/id6736616168">
-          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="App Store"/>
-        </a>
-      </p>
-      <p align="center">
-        AI-driven flashcard and quiz creator. Import or create flashcards and automatically generate engaging quizzes with AI-generated answers.
-      </p>
-      <p align="center">
-        <a href="https://myteacher.at/cardforger">🌐 Website</a> | 
-        <a href="https://apps.apple.com/app/id6736616168">📱 iOS</a> | 
-        <a href="https://play.google.com/store/apps/details?id=com.myteacher.mycardforger">🤖 Android</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ---
 
 ## 💻 Tech Stack
