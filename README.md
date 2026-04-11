@@ -98,7 +98,6 @@
     <td width="50%">
       <h3 align="center">health-records</h3>
       <p align="center">
-        
         <a href="https://github.com/quotentiroler/health-records">
           <img src="https://img.shields.io/github/stars/quotentiroler/health-records?style=for-the-badge" alt="Stars"/>
         </a>
@@ -252,7 +251,6 @@
     <td width="50%">
       <h3 align="center">prospector</h3>
       <p align="center">
-        
         <a href="https://github.com/quotentiroler/prospector">
           <img src="https://img.shields.io/github/stars/quotentiroler/prospector?style=for-the-badge" alt="Stars"/>
         </a>
@@ -267,7 +265,7 @@
   </tr>
 </table>
 
-*Last updated: April 11, 2026 at 04:53 PM GMT+2*
+*Last updated: April 11, 2026 at 04:56 PM GMT+2*
 <!-- FEATURED-PROJECTS:END -->
 
 ---

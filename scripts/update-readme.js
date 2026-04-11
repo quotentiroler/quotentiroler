@@ -177,14 +177,13 @@ function generateRepoCard(repo) {
   }
   
   const langBadgeHtml = langBadge
-    ? `<a href="${repo.html_url}">${langBadge}</a>`
+    ? `<a href="${repo.html_url}">${langBadge}</a>\n        `
     : '';
   
   return `
       <h3 align="center">${repo.name}</h3>
       <p align="center">
-        ${langBadgeHtml}
-        <a href="${repo.html_url}">
+        ${langBadgeHtml}<a href="${repo.html_url}">
           <img src="https://img.shields.io/github/stars/${USERNAME}/${repo.name}?style=for-the-badge" alt="Stars"/>
         </a>
       </p>
