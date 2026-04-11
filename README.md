@@ -76,42 +76,6 @@
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
-### 🏥 Healthcare & FHIR
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ehr-data-explainer</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/ehr-data-explainer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-        <a href="https://github.com/quotentiroler/ehr-data-explainer">
-          <img src="https://img.shields.io/github/stars/quotentiroler/ehr-data-explainer?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Transform complex EHR/FHIR health records into patient-friendly visual explanations using Neo4j, Claude AI, and Alibaba Wan 2.2 video generation
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/ehr-data-explainer">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">health-records</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/health-records">
-          <img src="https://img.shields.io/github/stars/quotentiroler/health-records?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        OpenClaw extension: Location-aware medical record retrieval via SMART on FHIR
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/health-records">📂 Repository</a>
-      </p>
-    </td>
-  </tr>
-</table>
-
 ### 🤖 AI & Automation
 
 <table>
@@ -265,7 +229,7 @@
   </tr>
 </table>
 
-*Last updated: April 11, 2026 at 04:56 PM GMT+2*
+*Last updated: April 11, 2026 at 09:40 PM GMT+2*
 <!-- FEATURED-PROJECTS:END -->
 
 ---

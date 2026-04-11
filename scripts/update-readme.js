@@ -16,25 +16,20 @@ const EXCLUDE_REPOS = [
   'shlinker',
   'coordinates2country',
   'smart-on-fhir-scheduling-tutorial',
-  'magic-spatula'
+  'magic-spatula',
+  'health-records',
+  'ehr-data-explainer',
+  'blood-count-to-fhir'
 ];
 
 // Manual topic overrides for repos missing GitHub topics
 const TOPIC_OVERRIDES = {
-  'health-records': 'healthcare',
-  'ehr-data-explainer': 'healthcare',
-  'blood-count-to-fhir': 'healthcare',
   'prospector': 'utility',
 };
 
 // Category definitions - map GitHub topics to sections
 // Repos are sorted by stars within each category
 const CATEGORIES = {
-  'healthcare': {
-    title: '🏥 Healthcare & FHIR',
-    emoji: '🏥',
-    priority: 1
-  },
   'edtech': {
     title: '📚 Education & EdTech', 
     emoji: '📚',
