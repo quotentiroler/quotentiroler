@@ -83,9 +83,7 @@
     <td width="50%">
       <h3 align="center">ehr-data-explainer</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/ehr-data-explainer">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
+        <a href="https://github.com/quotentiroler/ehr-data-explainer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
         <a href="https://github.com/quotentiroler/ehr-data-explainer">
           <img src="https://img.shields.io/github/stars/quotentiroler/ehr-data-explainer?style=for-the-badge" alt="Stars"/>
         </a>
@@ -100,9 +98,7 @@
     <td width="50%">
       <h3 align="center">health-records</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/health-records">
-          
-        </a>
+        
         <a href="https://github.com/quotentiroler/health-records">
           <img src="https://img.shields.io/github/stars/quotentiroler/health-records?style=for-the-badge" alt="Stars"/>
         </a>
@@ -124,9 +120,7 @@
     <td width="50%">
       <h3 align="center">mcp-generator-3.x</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/mcp-generator-3.x">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
+        <a href="https://github.com/quotentiroler/mcp-generator-3.x"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
         <a href="https://github.com/quotentiroler/mcp-generator-3.x">
           <img src="https://img.shields.io/github/stars/quotentiroler/mcp-generator-3.x?style=for-the-badge" alt="Stars"/>
         </a>
@@ -141,9 +135,7 @@
     <td width="50%">
       <h3 align="center">CactusRoute</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/CactusRoute">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
+        <a href="https://github.com/quotentiroler/CactusRoute"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
         <a href="https://github.com/quotentiroler/CactusRoute">
           <img src="https://img.shields.io/github/stars/quotentiroler/CactusRoute?style=for-the-badge" alt="Stars"/>
         </a>
@@ -160,9 +152,7 @@
     <td width="50%">
       <h3 align="center">email-collector</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
+        <a href="https://github.com/quotentiroler/email-collector"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
         <a href="https://github.com/quotentiroler/email-collector">
           <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
         </a>
@@ -186,9 +176,7 @@
     <td width="50%">
       <h3 align="center">HypePlot</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot">
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </a>
+        <a href="https://github.com/quotentiroler/HypePlot"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
         <a href="https://github.com/quotentiroler/HypePlot">
           <img src="https://img.shields.io/github/stars/quotentiroler/HypePlot?style=for-the-badge" alt="Stars"/>
         </a>
@@ -203,9 +191,7 @@
     <td width="50%">
       <h3 align="center">skillset-octagon</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/skillset-octagon">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
+        <a href="https://github.com/quotentiroler/skillset-octagon"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
         <a href="https://github.com/quotentiroler/skillset-octagon">
           <img src="https://img.shields.io/github/stars/quotentiroler/skillset-octagon?style=for-the-badge" alt="Stars"/>
         </a>
@@ -227,9 +213,7 @@
     <td width="50%">
       <h3 align="center">F1-AIC</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/F1-AIC">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
+        <a href="https://github.com/quotentiroler/F1-AIC"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
         <a href="https://github.com/quotentiroler/F1-AIC">
           <img src="https://img.shields.io/github/stars/quotentiroler/F1-AIC?style=for-the-badge" alt="Stars"/>
         </a>
@@ -253,9 +237,7 @@
     <td width="50%">
       <h3 align="center">Guido</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/Guido">
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-        </a>
+        <a href="https://github.com/quotentiroler/Guido"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
         <a href="https://github.com/quotentiroler/Guido">
           <img src="https://img.shields.io/github/stars/quotentiroler/Guido?style=for-the-badge" alt="Stars"/>
         </a>
@@ -270,9 +252,7 @@
     <td width="50%">
       <h3 align="center">prospector</h3>
       <p align="center">
-        <a href="https://github.com/quotentiroler/prospector">
-          
-        </a>
+        
         <a href="https://github.com/quotentiroler/prospector">
           <img src="https://img.shields.io/github/stars/quotentiroler/prospector?style=for-the-badge" alt="Stars"/>
         </a>
@@ -287,7 +267,7 @@
   </tr>
 </table>
 
-*Last updated: April 11, 2026 at 04:51 PM GMT+2*
+*Last updated: April 11, 2026 at 04:53 PM GMT+2*
 <!-- FEATURED-PROJECTS:END -->
 
 ---
