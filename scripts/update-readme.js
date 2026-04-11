@@ -19,7 +19,8 @@ const EXCLUDE_REPOS = [
   'magic-spatula',
   'health-records',
   'ehr-data-explainer',
-  'blood-count-to-fhir'
+  'blood-count-to-fhir',
+  'F1-AIC'
 ];
 
 // Manual topic overrides for repos missing GitHub topics
@@ -44,11 +45,6 @@ const CATEGORIES = {
     title: '📊 Analytics & Visualization',
     emoji: '📊',
     priority: 4
-  },
-  'hackathon': {
-    title: '🏆 Hackathons',
-    emoji: '🏆',
-    priority: 5
   },
   'utility': {
     title: '🛠️ Utilities',

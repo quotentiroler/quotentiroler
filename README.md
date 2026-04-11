@@ -169,30 +169,6 @@
   </tr>
 </table>
 
-### 🏆 Hackathons
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">F1-AIC</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/F1-AIC"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
-        <a href="https://github.com/quotentiroler/F1-AIC">
-          <img src="https://img.shields.io/github/stars/quotentiroler/F1-AIC?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        F1 Hackathon AI Collective
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/F1-AIC">📂 Repository</a> | <a href="https://f1-aic.vercel.app">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
-
 ### 🛠️ Utilities
 
 <table>
