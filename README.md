@@ -11,6 +11,16 @@
 
 <div align="center">
 
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=quotentiroler&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📊 GitHub Stats
 
 <picture>
@@ -35,9 +45,78 @@
 
 ---
 
+<div align="center">
+
+### 📈 Activity Heatmap
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quotentiroler&theme=tokyo-night&hide_border=true&area=true" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quotentiroler&theme=github-compact&hide_border=true&area=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=quotentiroler&theme=tokyo-night&hide_border=true&area=true" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/quotentiroler/quotentiroler/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/quotentiroler/quotentiroler/output/github-snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/quotentiroler/quotentiroler/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 <!-- FEATURED-PROJECTS:START -->
+### 🏥 Healthcare & FHIR
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">ehr-data-explainer</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/ehr-data-explainer">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+        </a>
+        <a href="https://github.com/quotentiroler/ehr-data-explainer">
+          <img src="https://img.shields.io/github/stars/quotentiroler/ehr-data-explainer?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        Transform complex EHR/FHIR health records into patient-friendly visual explanations using Neo4j, Claude AI, and Alibaba Wan 2.2 video generation
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/ehr-data-explainer">📂 Repository</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">health-records</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/health-records">
+          
+        </a>
+        <a href="https://github.com/quotentiroler/health-records">
+          <img src="https://img.shields.io/github/stars/quotentiroler/health-records?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        OpenClaw extension: Location-aware medical record retrieval via SMART on FHIR
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/health-records">📂 Repository</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 ### 🤖 AI & Automation
 
 <table>
@@ -189,11 +268,26 @@
       </p>
     </td>
     <td width="50%">
+      <h3 align="center">prospector</h3>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/prospector">
+          
+        </a>
+        <a href="https://github.com/quotentiroler/prospector">
+          <img src="https://img.shields.io/github/stars/quotentiroler/prospector?style=for-the-badge" alt="Stars"/>
+        </a>
+      </p>
+      <p align="center">
+        find your ppl
+      </p>
+      <p align="center">
+        <a href="https://github.com/quotentiroler/prospector">📂 Repository</a> | <a href="https://prospector-eta.vercel.app">🌐 Demo</a>
+      </p>
     </td>
   </tr>
 </table>
 
-*Last updated: April 11, 2026 at 12:33 AM UTC*
+*Last updated: April 11, 2026 at 04:51 PM GMT+2*
 <!-- FEATURED-PROJECTS:END -->
 
 ---

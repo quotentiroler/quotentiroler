@@ -15,8 +15,17 @@ const EXCLUDE_REPOS = [
   'smart-launcher-v2', 
   'shlinker',
   'coordinates2country',
-  'smart-on-fhir-scheduling-tutorial'
+  'smart-on-fhir-scheduling-tutorial',
+  'magic-spatula'
 ];
+
+// Manual topic overrides for repos missing GitHub topics
+const TOPIC_OVERRIDES = {
+  'health-records': 'healthcare',
+  'ehr-data-explainer': 'healthcare',
+  'blood-count-to-fhir': 'healthcare',
+  'prospector': 'utility',
+};
 
 // Category definitions - map GitHub topics to sections
 // Repos are sorted by stars within each category
@@ -108,12 +117,23 @@ function categorizeRepos(repos) {
     const topics = repo.topics || [];
     let placed = false;
     
-    // Check each topic against our categories
-    for (const topic of topics) {
-      if (CATEGORIES[topic]) {
-        categorized[topic].push(repo);
+    // Check manual overrides first
+    if (TOPIC_OVERRIDES[repo.name]) {
+      const overrideKey = TOPIC_OVERRIDES[repo.name];
+      if (categorized[overrideKey]) {
+        categorized[overrideKey].push(repo);
         placed = true;
-        break; // Only place in first matching category
+      }
+    }
+    
+    // Then check each topic against our categories
+    if (!placed) {
+      for (const topic of topics) {
+        if (CATEGORIES[topic]) {
+          categorized[topic].push(repo);
+          placed = true;
+          break; // Only place in first matching category
+        }
       }
     }
     
