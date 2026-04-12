@@ -47,7 +47,7 @@
 
 <div align="center">
 
-### 📈 Activity Heatmap
+### 📈 Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=quotentiroler&theme=tokyo-night&hide_border=true&area=true" />
