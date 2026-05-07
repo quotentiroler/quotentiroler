@@ -5,6 +5,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/quotentiroler)
 [![GitHub Followers](https://img.shields.io/github/followers/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=followers)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/quotentiroler)
+[![committers.top badge](https://user-badge.committers.top/austria/quotentiroler.svg)](https://user-badge.committers.top/austria/quotentiroler)
 
 </div>
 
