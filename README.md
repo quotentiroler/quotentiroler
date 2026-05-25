@@ -191,23 +191,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">prospector</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/prospector">
-          <img src="https://img.shields.io/github/stars/quotentiroler/prospector?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        find your ppl
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/prospector">📂 Repository</a> | <a href="https://prospector-eta.vercel.app">🌐 Demo</a>
-      </p>
     </td>
   </tr>
 </table>
 
-*Last updated: May 24, 2026 at 12:51 AM UTC*
+*Last updated: May 25, 2026 at 12:52 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ---
