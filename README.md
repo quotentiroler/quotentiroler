@@ -113,25 +113,6 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">email-collector</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Collect your e-mails with the help of AI agents!
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
 </table>
 
 ### 📊 Analytics & Visualization
@@ -195,7 +176,7 @@
   </tr>
 </table>
 
-*Last updated: May 29, 2026 at 12:55 AM UTC*
+*Last updated: May 30, 2026 at 12:50 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ---
