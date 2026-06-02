@@ -120,21 +120,6 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">HypePlot</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-        <a href="https://github.com/quotentiroler/HypePlot">
-          <img src="https://img.shields.io/github/stars/quotentiroler/HypePlot?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Track topic hype cycles by analyzing various sources and plot the results
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot">📂 Repository</a> | <a href="https://quotentiroler.github.io/HypePlot">🌐 Demo</a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">skillset-octagon</h3>
       <p align="center">
         <a href="https://github.com/quotentiroler/skillset-octagon"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/></a>
@@ -148,6 +133,8 @@
       <p align="center">
         <a href="https://github.com/quotentiroler/skillset-octagon">📂 Repository</a>
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
@@ -176,7 +163,7 @@
   </tr>
 </table>
 
-*Last updated: June 1, 2026 at 12:58 AM UTC*
+*Last updated: June 2, 2026 at 12:57 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ---
