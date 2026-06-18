@@ -113,46 +113,12 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">email-collector</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-        <a href="https://github.com/quotentiroler/email-collector">
-          <img src="https://img.shields.io/github/stars/quotentiroler/email-collector?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Collect your e-mails with the help of AI agents!
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/email-collector">📂 Repository</a>
-      </p>
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
 </table>
 
 ### 📊 Analytics & Visualization
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">HypePlot</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></a>
-        <a href="https://github.com/quotentiroler/HypePlot">
-          <img src="https://img.shields.io/github/stars/quotentiroler/HypePlot?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        Track topic hype cycles by analyzing various sources and plot the results
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/HypePlot">📂 Repository</a> | <a href="https://quotentiroler.github.io/HypePlot">🌐 Demo</a>
-      </p>
-    </td>
     <td width="50%">
       <h3 align="center">skillset-octagon</h3>
       <p align="center">
@@ -167,6 +133,8 @@
       <p align="center">
         <a href="https://github.com/quotentiroler/skillset-octagon">📂 Repository</a>
       </p>
+    </td>
+    <td width="50%">
     </td>
   </tr>
 </table>
@@ -191,23 +159,11 @@
       </p>
     </td>
     <td width="50%">
-      <h3 align="center">prospector</h3>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/prospector">
-          <img src="https://img.shields.io/github/stars/quotentiroler/prospector?style=for-the-badge" alt="Stars"/>
-        </a>
-      </p>
-      <p align="center">
-        find your ppl
-      </p>
-      <p align="center">
-        <a href="https://github.com/quotentiroler/prospector">📂 Repository</a> | <a href="https://prospector-eta.vercel.app">🌐 Demo</a>
-      </p>
     </td>
   </tr>
 </table>
 
-*Last updated: May 7, 2026 at 12:44 AM UTC*
+*Last updated: June 18, 2026 at 12:59 AM UTC*
 <!-- FEATURED-PROJECTS:END -->
 
 ---
