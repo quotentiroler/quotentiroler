@@ -51,6 +51,17 @@
 
 <div align="center">
 
+### 📦 npm Packages
+
+[![npm downloads per month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-total.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
+[![Top package](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-leader.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
+
+</div>
+
+---
+
+<div align="center">
+
 ### 📈 Activity
 
 <picture>

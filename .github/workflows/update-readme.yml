@@ -9,12 +9,20 @@ on:
   workflow_dispatch: # Allows manual trigger
 
 jobs:
-  generate-snake:
+  readme-assets:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    
+
     steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -22,6 +30,9 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Generate npm download badges
+        run: node scripts/npm-stats.mjs
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
