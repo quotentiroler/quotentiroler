@@ -8,6 +8,8 @@
 [![GitHub Followers](https://img.shields.io/github/followers/quotentiroler?style=for-the-badge&logo=github)](https://github.com/quotentiroler?tab=followers)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/quotentiroler)
 [![committers.top badge](https://user-badge.committers.top/austria/quotentiroler.svg)](https://user-badge.committers.top/austria/quotentiroler)
+[![npm downloads per month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-total.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
+[![Top package](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-leader.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
 
 </div>
 
@@ -44,17 +46,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=quotentiroler&theme=default&hide_border=true" />
   <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=quotentiroler&theme=tokyonight&hide_border=true" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-### 📦 npm Packages
-
-[![npm downloads per month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-total.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
-[![Top package](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-leader.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
 
 </div>
 
