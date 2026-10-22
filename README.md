@@ -23,7 +23,7 @@
 | 11 | [Max-Health-Inc/mcp-http](https://github.com/Max-Health-Inc/mcp-http) | 66 | 4 | 9 | 0 | **79** |
 | 12 | [Max-Health-Inc/fhir-igs](https://github.com/Max-Health-Inc/fhir-igs) | 46 | 10 | 0 | 0 | **56** |
 | 13 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 36 | 12 | 2 | 0 | **50** |
-| 14 | [quotentiroler/quotentiroler](https://github.com/quotentiroler/quotentiroler) | 39 | 0 | 0 | 0 | **39** |
+| 14 | [quotentiroler/quotentiroler](https://github.com/quotentiroler/quotentiroler) | 40 | 0 | 0 | 0 | **40** |
 | 15 | [max-network/plugins](https://github.com/max-network/plugins) | 27 | 8 | 0 | 0 | **35** |
 | 16 | [quotentiroler/aegis](https://github.com/quotentiroler/aegis) | 34 | 0 | 0 | 0 | **34** |
 | 17 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 25 | 5 | 0 | 0 | **30** |
