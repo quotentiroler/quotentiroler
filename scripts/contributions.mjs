@@ -2,6 +2,7 @@ import { PROFILE_USER, githubGraphql } from './lib/http.mjs'
 import { replaceReadmeSection } from './lib/readme.mjs'
 
 const README = process.env.README_PATH || 'README.md'
+const PROFILE_REPO = `${PROFILE_USER}/${PROFILE_USER}`
 const KINDS = {
   commits: 'commitContributionsByRepository',
   prs: 'pullRequestContributionsByRepository',
@@ -53,7 +54,7 @@ async function collectContributions() {
   for (const collection of collections) {
     for (const [kind, field] of Object.entries(KINDS)) {
       for (const { repository, contributions } of collection[field]) {
-        if (repository.isPrivate) continue
+        if (repository.isPrivate || repository.nameWithOwner === PROFILE_REPO) continue
         const row = repos.get(repository.nameWithOwner) ?? {
           name: repository.nameWithOwner,
           url: repository.url,
