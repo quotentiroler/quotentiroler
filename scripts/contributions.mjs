@@ -69,7 +69,7 @@ async function collectContributions() {
       }
     }
   }
-  return [...repos.values()].sort((a, b) => b.total - a.total || a.name.localeCompare(b.name))
+  return [...repos.values()].filter((r) => r.commits > 0).sort((a, b) => b.total - a.total || a.name.localeCompare(b.name))
 }
 
 function renderTable(rows) {
