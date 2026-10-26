@@ -1,7 +1,9 @@
-import { PROFILE_USER, fetchJson } from './lib/http.mjs'
+import { PROFILE_USER, fetchJson, mapConcurrent } from './lib/http.mjs'
 import { nf, writeBadge } from './lib/badge.mjs'
+import { completedDaysWindow } from './lib/dates.mjs'
 
 const MAINTAINER = process.env.NPM_MAINTAINER || PROFILE_USER
+const WINDOW_DAYS = Number(process.env.NPM_WINDOW_DAYS || 30)
 const NPM_RED = 'cb0000'
 const PAGE = 250
 
@@ -18,10 +20,10 @@ async function discoverPackages() {
   return [...names]
 }
 
-async function monthlyDownloads(pkg) {
+async function downloads(pkg, { start, end }) {
   try {
     const data = await fetchJson(
-      `https://api.npmjs.org/downloads/point/last-month/${encodeURIComponent(pkg)}`,
+      `https://api.npmjs.org/downloads/point/${start}:${end}/${encodeURIComponent(pkg)}`,
     )
     return data.downloads ?? 0
   } catch {
@@ -30,8 +32,9 @@ async function monthlyDownloads(pkg) {
 }
 
 const packages = await discoverPackages()
-const downloads = await Promise.all(packages.map(monthlyDownloads))
-const total = downloads.reduce((sum, n) => sum + n, 0)
+const period = completedDaysWindow(WINDOW_DAYS)
+const counts = await mapConcurrent(packages, (pkg) => downloads(pkg, period))
+const total = counts.reduce((sum, n) => sum + n, 0)
 
 await writeBadge('npm-total', {
   label: 'npm downloads',
@@ -40,4 +43,4 @@ await writeBadge('npm-total', {
   namedLogo: 'npm',
 })
 
-console.log(`npm-stats: ${packages.length} packages, ${total}/mo total`)
+console.log(`npm-stats: ${packages.length} packages, ${total} downloads ${period.start}..${period.end}`)

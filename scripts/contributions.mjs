@@ -1,3 +1,4 @@
+import { mapConcurrent } from './lib/http.mjs'
 import { replaceReadmeSection } from './lib/readme.mjs'
 import { nf } from './lib/badge.mjs'
 import { KINDS, isListedRepo, fetchProfile, fetchContributionsByRepository } from './lib/contributions.mjs'
@@ -17,7 +18,7 @@ function yearWindows(createdAt, now = new Date()) {
 
 async function collectContributions() {
   const { createdAt } = await fetchProfile()
-  const collections = await Promise.all(yearWindows(createdAt).map((w) => fetchContributionsByRepository(w)))
+  const collections = await mapConcurrent(yearWindows(createdAt), (w) => fetchContributionsByRepository(w))
 
   const repos = new Map()
   for (const collection of collections) {

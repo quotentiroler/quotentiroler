@@ -1,6 +1,5 @@
 import { PROFILE_USER, githubGraphql } from './http.mjs'
 
-const DAY_MS = 24 * 60 * 60 * 1000
 const PROFILE_REPO = `${PROFILE_USER}/${PROFILE_USER}`
 
 export const KINDS = {
@@ -10,12 +9,12 @@ export const KINDS = {
   reviews: 'pullRequestReviewContributionsByRepository',
 }
 
-export function isListedRepo(repository) {
-  return !repository.isPrivate && repository.nameWithOwner !== PROFILE_REPO
+export function isProfileRepo(repository) {
+  return repository.nameWithOwner === PROFILE_REPO
 }
 
-export function trailingWindow(days, now = new Date()) {
-  return { from: new Date(now.getTime() - days * DAY_MS).toISOString(), to: now.toISOString() }
+export function isListedRepo(repository) {
+  return !repository.isPrivate && !isProfileRepo(repository)
 }
 
 export async function fetchProfile() {

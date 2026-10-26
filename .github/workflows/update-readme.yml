@@ -33,11 +33,13 @@ jobs:
         run: node scripts/loc-stats.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate contributions table
         run: node scripts/contributions.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v5
