@@ -1,31 +1,8 @@
-import { PROFILE_USER, githubGraphql } from './lib/http.mjs'
 import { replaceReadmeSection } from './lib/readme.mjs'
+import { nf } from './lib/badge.mjs'
+import { KINDS, isListedRepo, fetchProfile, fetchContributionsByRepository } from './lib/contributions.mjs'
 
 const README = process.env.README_PATH || 'README.md'
-const PROFILE_REPO = `${PROFILE_USER}/${PROFILE_USER}`
-const KINDS = {
-  commits: 'commitContributionsByRepository',
-  prs: 'pullRequestContributionsByRepository',
-  issues: 'issueContributionsByRepository',
-  reviews: 'pullRequestReviewContributionsByRepository',
-}
-
-const nf = new Intl.NumberFormat('en-US')
-
-const byRepoFields = Object.values(KINDS)
-  .map(
-    (field) => `${field}(maxRepositories: 100) {
-      repository { nameWithOwner url isPrivate }
-      contributions { totalCount }
-    }`,
-  )
-  .join('\n')
-
-const YEAR_QUERY = `query($login: String!, $from: DateTime!, $to: DateTime!) {
-  user(login: $login) {
-    contributionsCollection(from: $from, to: $to) { ${byRepoFields} }
-  }
-}`
 
 function yearWindows(createdAt, now = new Date()) {
   const windows = []
@@ -39,22 +16,14 @@ function yearWindows(createdAt, now = new Date()) {
 }
 
 async function collectContributions() {
-  const { user } = await githubGraphql(
-    'query($login: String!) { user(login: $login) { createdAt } }',
-    { login: PROFILE_USER },
-  )
-  const collections = await Promise.all(
-    yearWindows(user.createdAt).map(async (w) => {
-      const data = await githubGraphql(YEAR_QUERY, { login: PROFILE_USER, ...w })
-      return data.user.contributionsCollection
-    }),
-  )
+  const { createdAt } = await fetchProfile()
+  const collections = await Promise.all(yearWindows(createdAt).map((w) => fetchContributionsByRepository(w)))
 
   const repos = new Map()
   for (const collection of collections) {
     for (const [kind, field] of Object.entries(KINDS)) {
       for (const { repository, contributions } of collection[field]) {
-        if (repository.isPrivate || repository.nameWithOwner === PROFILE_REPO) continue
+        if (!isListedRepo(repository)) continue
         const row = repos.get(repository.nameWithOwner) ?? {
           name: repository.nameWithOwner,
           url: repository.url,

@@ -1,12 +1,9 @@
-import { writeFile, mkdir } from 'node:fs/promises'
 import { PROFILE_USER, fetchJson } from './lib/http.mjs'
+import { nf, writeBadge } from './lib/badge.mjs'
 
 const MAINTAINER = process.env.NPM_MAINTAINER || PROFILE_USER
-const OUT_DIR = process.env.OUT_DIR || 'dist'
 const NPM_RED = 'cb0000'
 const PAGE = 250
-
-const nf = new Intl.NumberFormat('en-US')
 
 async function discoverPackages() {
   const names = new Set()
@@ -36,15 +33,11 @@ const packages = await discoverPackages()
 const downloads = await Promise.all(packages.map(monthlyDownloads))
 const total = downloads.reduce((sum, n) => sum + n, 0)
 
-const badge = {
-  schemaVersion: 1,
+await writeBadge('npm-total', {
   label: 'npm downloads',
   message: `${nf.format(total)} / month`,
   color: NPM_RED,
   namedLogo: 'npm',
-}
-
-await mkdir(OUT_DIR, { recursive: true })
-await writeFile(`${OUT_DIR}/npm-total.json`, JSON.stringify(badge))
+})
 
 console.log(`npm-stats: ${packages.length} packages, ${total}/mo total`)

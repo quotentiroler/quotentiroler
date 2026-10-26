@@ -29,6 +29,11 @@ jobs:
       - name: Generate npm download badge
         run: node scripts/npm-stats.mjs
 
+      - name: Generate lines-per-day badge
+        run: node scripts/loc-stats.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Generate contributions table
         run: node scripts/contributions.mjs
         env:

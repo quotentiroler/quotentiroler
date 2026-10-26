@@ -2,6 +2,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=quotentiroler&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/quotentiroler)
 [![npm downloads per month](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Fnpm-total.json&style=for-the-badge)](https://www.npmjs.com/~quotentiroler)
+[![Lines of code per day](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fquotentiroler%2Fquotentiroler%2Foutput%2Floc-per-day.json&style=for-the-badge)](#public-repositories-i-contributed-to)
 
 </div>
 
