@@ -26,8 +26,8 @@
 | 13 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 40 | 14 | 2 | 0 | **56** |
 | 14 | [max-network/plugins](https://github.com/max-network/plugins) | 27 | 8 | 0 | 0 | **35** |
 | 15 | [quotentiroler/aegis](https://github.com/quotentiroler/aegis) | 34 | 0 | 0 | 0 | **34** |
-| 16 | [max-network/.github](https://github.com/max-network/.github) | 26 | 5 | 0 | 0 | **31** |
-| 17 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 25 | 5 | 0 | 0 | **30** |
+| 16 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 27 | 6 | 0 | 0 | **33** |
+| 17 | [max-network/.github](https://github.com/max-network/.github) | 26 | 5 | 0 | 0 | **31** |
 | 18 | [quotentiroler/netfault](https://github.com/quotentiroler/netfault) | 30 | 0 | 0 | 0 | **30** |
 | 19 | [quotentiroler/blood-count-to-fhir](https://github.com/quotentiroler/blood-count-to-fhir) | 24 | 0 | 0 | 0 | **24** |
 | 20 | [quotentiroler/CactusRoute](https://github.com/quotentiroler/CactusRoute) | 23 | 0 | 0 | 0 | **23** |
