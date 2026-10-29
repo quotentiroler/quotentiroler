@@ -44,12 +44,13 @@
 | 31 | [proxy-smart/.github](https://github.com/proxy-smart/.github) | 5 | 1 | 0 | 0 | **6** |
 | 32 | [reflex-dev/reflex](https://github.com/reflex-dev/reflex) | 1 | 3 | 0 | 0 | **4** |
 | 33 | [coordinates2country/coordinates2country](https://github.com/coordinates2country/coordinates2country) | 1 | 1 | 1 | 0 | **3** |
-| 34 | [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) | 1 | 1 | 0 | 0 | **2** |
-| 35 | [babelfhir-ts/.github](https://github.com/babelfhir-ts/.github) | 2 | 0 | 0 | 0 | **2** |
-| 36 | [FirelyTeam/firely-docs-firely-server](https://github.com/FirelyTeam/firely-docs-firely-server) | 1 | 1 | 0 | 0 | **2** |
-| 37 | [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) | 1 | 1 | 0 | 0 | **2** |
-| 38 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | 1 | 1 | 0 | 0 | **2** |
-| 39 | [PostHog/posthog-php](https://github.com/PostHog/posthog-php) | 1 | 1 | 0 | 0 | **2** |
-| 40 | [roboflow/supervision](https://github.com/roboflow/supervision) | 1 | 1 | 0 | 0 | **2** |
-| 41 | [Max-Health-Inc/max-health-inc.github.io](https://github.com/Max-Health-Inc/max-health-inc.github.io) | 1 | 0 | 0 | 0 | **1** |
+| 34 | [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) | 1 | 1 | 1 | 0 | **3** |
+| 35 | [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) | 1 | 1 | 0 | 0 | **2** |
+| 36 | [babelfhir-ts/.github](https://github.com/babelfhir-ts/.github) | 2 | 0 | 0 | 0 | **2** |
+| 37 | [FirelyTeam/firely-docs-firely-server](https://github.com/FirelyTeam/firely-docs-firely-server) | 1 | 1 | 0 | 0 | **2** |
+| 38 | [getopenscreen/openscreen](https://github.com/getopenscreen/openscreen) | 1 | 1 | 0 | 0 | **2** |
+| 39 | [PostHog/posthog-js](https://github.com/PostHog/posthog-js) | 1 | 1 | 0 | 0 | **2** |
+| 40 | [PostHog/posthog-php](https://github.com/PostHog/posthog-php) | 1 | 1 | 0 | 0 | **2** |
+| 41 | [roboflow/supervision](https://github.com/roboflow/supervision) | 1 | 1 | 0 | 0 | **2** |
+| 42 | [Max-Health-Inc/max-health-inc.github.io](https://github.com/Max-Health-Inc/max-health-inc.github.io) | 1 | 0 | 0 | 0 | **1** |
 <!-- contributions:end -->
