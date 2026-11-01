@@ -11,7 +11,7 @@
 <!-- contributions:start -->
 | # | Repository | Commits | PRs | Issues | Reviews | Total |
 |--:|:-----------|--------:|----:|-------:|--------:|------:|
-| 1 | [proxy-smart/proxy-smart](https://github.com/proxy-smart/proxy-smart) | 3,042 | 67 | 19 | 7 | **3,135** |
+| 1 | [proxy-smart/proxy-smart](https://github.com/proxy-smart/proxy-smart) | 3,058 | 67 | 19 | 7 | **3,151** |
 | 2 | [Max-Health-Inc/prefab](https://github.com/Max-Health-Inc/prefab) | 356 | 24 | 20 | 0 | **400** |
 | 3 | [proxy-smart/smart-dicom-template](https://github.com/proxy-smart/smart-dicom-template) | 383 | 3 | 0 | 0 | **386** |
 | 4 | [Max-Health-Inc/elysia-mcp](https://github.com/Max-Health-Inc/elysia-mcp) | 335 | 2 | 0 | 0 | **337** |
