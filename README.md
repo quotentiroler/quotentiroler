@@ -11,11 +11,11 @@
 <!-- contributions:start -->
 | # | Repository | Commits | PRs | Issues | Reviews | Total |
 |--:|:-----------|--------:|----:|-------:|--------:|------:|
-| 1 | [proxy-smart/proxy-smart](https://github.com/proxy-smart/proxy-smart) | 3,058 | 67 | 19 | 7 | **3,151** |
-| 2 | [Max-Health-Inc/prefab](https://github.com/Max-Health-Inc/prefab) | 356 | 24 | 20 | 0 | **400** |
+| 1 | [proxy-smart/proxy-smart](https://github.com/proxy-smart/proxy-smart) | 3,068 | 68 | 19 | 7 | **3,162** |
+| 2 | [Max-Health-Inc/prefab](https://github.com/Max-Health-Inc/prefab) | 359 | 25 | 20 | 0 | **404** |
 | 3 | [proxy-smart/smart-dicom-template](https://github.com/proxy-smart/smart-dicom-template) | 383 | 3 | 0 | 0 | **386** |
 | 4 | [Max-Health-Inc/elysia-mcp](https://github.com/Max-Health-Inc/elysia-mcp) | 335 | 2 | 0 | 0 | **337** |
-| 5 | [Max-Health-Inc/shared-ui](https://github.com/Max-Health-Inc/shared-ui) | 223 | 51 | 9 | 0 | **283** |
+| 5 | [Max-Health-Inc/shared-ui](https://github.com/Max-Health-Inc/shared-ui) | 230 | 54 | 9 | 0 | **293** |
 | 6 | [quotentiroler/mcp-generator-4.x](https://github.com/quotentiroler/mcp-generator-4.x) | 246 | 7 | 1 | 1 | **255** |
 | 7 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 47 | 26 | 0 | 24 | **97** |
 | 8 | [quotentiroler/Guido](https://github.com/quotentiroler/Guido) | 86 | 3 | 2 | 0 | **91** |
@@ -23,9 +23,9 @@
 | 10 | [quotentiroler/RalphMeter](https://github.com/quotentiroler/RalphMeter) | 69 | 1 | 16 | 0 | **86** |
 | 11 | [max-network/brandc](https://github.com/max-network/brandc) | 61 | 20 | 4 | 0 | **85** |
 | 12 | [Max-Health-Inc/fhir-igs](https://github.com/Max-Health-Inc/fhir-igs) | 47 | 10 | 0 | 0 | **57** |
-| 13 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 40 | 14 | 2 | 0 | **56** |
-| 14 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 36 | 9 | 0 | 0 | **45** |
-| 15 | [max-network/plugins](https://github.com/max-network/plugins) | 27 | 8 | 0 | 0 | **35** |
+| 13 | [max-network/plugins](https://github.com/max-network/plugins) | 41 | 16 | 0 | 0 | **57** |
+| 14 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 40 | 14 | 2 | 0 | **56** |
+| 15 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 36 | 9 | 0 | 0 | **45** |
 | 16 | [max-network/.github](https://github.com/max-network/.github) | 28 | 6 | 0 | 0 | **34** |
 | 17 | [quotentiroler/aegis](https://github.com/quotentiroler/aegis) | 34 | 0 | 0 | 0 | **34** |
 | 18 | [quotentiroler/netfault](https://github.com/quotentiroler/netfault) | 30 | 0 | 0 | 0 | **30** |
