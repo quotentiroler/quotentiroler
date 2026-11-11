@@ -22,8 +22,8 @@
 | 9 | [max-network/brandc](https://github.com/max-network/brandc) | 68 | 22 | 4 | 0 | **94** |
 | 10 | [quotentiroler/RalphMeter](https://github.com/quotentiroler/RalphMeter) | 69 | 1 | 16 | 0 | **86** |
 | 11 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 51 | 19 | 2 | 0 | **72** |
-| 12 | [max-network/.github](https://github.com/max-network/.github) | 47 | 15 | 0 | 0 | **62** |
-| 13 | [max-network/plugins](https://github.com/max-network/plugins) | 45 | 17 | 0 | 0 | **62** |
+| 12 | [max-network/plugins](https://github.com/max-network/plugins) | 49 | 19 | 0 | 0 | **68** |
+| 13 | [max-network/.github](https://github.com/max-network/.github) | 47 | 15 | 0 | 0 | **62** |
 | 14 | [Max-Health-Inc/fhir-igs](https://github.com/Max-Health-Inc/fhir-igs) | 49 | 11 | 0 | 0 | **60** |
 | 15 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 43 | 12 | 0 | 0 | **55** |
 | 16 | [quotentiroler/aegis](https://github.com/quotentiroler/aegis) | 34 | 0 | 0 | 0 | **34** |
