@@ -11,20 +11,20 @@
 <!-- contributions:start -->
 | # | Repository | Commits | PRs | Issues | Reviews | Total |
 |--:|:-----------|--------:|----:|-------:|--------:|------:|
-| 1 | [proxy-smart/proxy-smart](https://github.com/proxy-smart/proxy-smart) | 3,260 | 97 | 19 | 7 | **3,383** |
-| 2 | [Max-Health-Inc/prefab](https://github.com/Max-Health-Inc/prefab) | 403 | 32 | 20 | 0 | **455** |
+| 1 | [proxy-smart/proxy-smart](https://github.com/proxy-smart/proxy-smart) | 3,271 | 97 | 19 | 7 | **3,394** |
+| 2 | [Max-Health-Inc/prefab](https://github.com/Max-Health-Inc/prefab) | 411 | 34 | 20 | 0 | **465** |
 | 3 | [Max-Health-Inc/shared-ui](https://github.com/Max-Health-Inc/shared-ui) | 310 | 94 | 9 | 0 | **413** |
 | 4 | [Max-Health-Inc/elysia-mcp](https://github.com/Max-Health-Inc/elysia-mcp) | 339 | 5 | 0 | 0 | **344** |
 | 5 | [quotentiroler/mcp-generator-4.x](https://github.com/quotentiroler/mcp-generator-4.x) | 250 | 7 | 1 | 1 | **259** |
 | 6 | [quotentiroler/Guido](https://github.com/quotentiroler/Guido) | 126 | 11 | 3 | 0 | **140** |
-| 7 | [Max-Health-Inc/mcp-http](https://github.com/Max-Health-Inc/mcp-http) | 93 | 8 | 9 | 0 | **110** |
-| 8 | [max-network/brandc](https://github.com/max-network/brandc) | 72 | 23 | 4 | 0 | **99** |
-| 9 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 47 | 26 | 0 | 23 | **96** |
-| 10 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 65 | 27 | 2 | 0 | **94** |
-| 11 | [max-network/.github](https://github.com/max-network/.github) | 67 | 26 | 0 | 0 | **93** |
+| 7 | [Max-Health-Inc/mcp-http](https://github.com/Max-Health-Inc/mcp-http) | 96 | 9 | 9 | 0 | **114** |
+| 8 | [Max-Health-Inc/config](https://github.com/Max-Health-Inc/config) | 69 | 28 | 2 | 0 | **99** |
+| 9 | [max-network/brandc](https://github.com/max-network/brandc) | 72 | 23 | 4 | 0 | **99** |
+| 10 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 47 | 26 | 0 | 23 | **96** |
+| 11 | [max-network/.github](https://github.com/max-network/.github) | 67 | 27 | 0 | 0 | **94** |
 | 12 | [quotentiroler/RalphMeter](https://github.com/quotentiroler/RalphMeter) | 70 | 2 | 16 | 0 | **88** |
-| 13 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 51 | 17 | 0 | 0 | **68** |
-| 14 | [max-network/plugins](https://github.com/max-network/plugins) | 49 | 19 | 0 | 0 | **68** |
+| 13 | [max-network/plugins](https://github.com/max-network/plugins) | 49 | 20 | 0 | 0 | **69** |
+| 14 | [max-network/hono-cms-core](https://github.com/max-network/hono-cms-core) | 51 | 17 | 0 | 0 | **68** |
 | 15 | [Max-Health-Inc/fhir-igs](https://github.com/Max-Health-Inc/fhir-igs) | 52 | 12 | 0 | 0 | **64** |
 | 16 | [quotentiroler/aegis](https://github.com/quotentiroler/aegis) | 34 | 0 | 0 | 0 | **34** |
 | 17 | [quotentiroler/netfault](https://github.com/quotentiroler/netfault) | 33 | 0 | 0 | 0 | **33** |
