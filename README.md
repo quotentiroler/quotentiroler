@@ -28,7 +28,7 @@
 | 15 | [Max-Health-Inc/fhir-igs](https://github.com/Max-Health-Inc/fhir-igs) | 52 | 12 | 0 | 0 | **64** |
 | 16 | [quotentiroler/aegis](https://github.com/quotentiroler/aegis) | 34 | 0 | 0 | 0 | **34** |
 | 17 | [quotentiroler/netfault](https://github.com/quotentiroler/netfault) | 33 | 0 | 0 | 0 | **33** |
-| 18 | [LTplus-AG/ifc-lite](https://github.com/LTplus-AG/ifc-lite) | 5 | 10 | 11 | 0 | **26** |
+| 18 | [LTplus-AG/ifc-lite](https://github.com/LTplus-AG/ifc-lite) | 6 | 10 | 11 | 0 | **27** |
 | 19 | [Max-Health-Inc/openapi-ts-fetch](https://github.com/Max-Health-Inc/openapi-ts-fetch) | 22 | 3 | 0 | 0 | **25** |
 | 20 | [quotentiroler/blood-count-to-fhir](https://github.com/quotentiroler/blood-count-to-fhir) | 24 | 0 | 0 | 0 | **24** |
 | 21 | [quotentiroler/CactusRoute](https://github.com/quotentiroler/CactusRoute) | 23 | 0 | 0 | 0 | **23** |
